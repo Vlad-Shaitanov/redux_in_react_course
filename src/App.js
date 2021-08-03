@@ -1,8 +1,8 @@
-
+import React from "react";
 function App() {
 	return (
 		<div className="container">
-			<div>START</div>
+			<h1>START!</h1>
 		</div>
 	);
 }
